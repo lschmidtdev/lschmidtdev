@@ -26,6 +26,5 @@ I'm a Fullstack developer who enjoys creating intuitive user interfaces and rewa
 
 ![lschmidtdev's Stats](https://github-readme-stats.vercel.app/api?username=lschmidtdev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![lschmidtdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lschmidtdev&theme=vue-dark&hide_border=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lschmidtdev)](https://github.com/lschmidtdev/github-readme-stats)
 
 **Did you like my profile? Leave a ⭐ in my repository!**
