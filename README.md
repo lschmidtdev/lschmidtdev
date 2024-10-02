@@ -17,6 +17,10 @@ I'm a Fullstack developer who enjoys creating intuitive user interfaces and rewa
   * 🤔 Always looking for new challenges and learning opportunities.
   * 💬 I love sharing knowledge and collaborating with other developers.
 
+  **You can see some of my codes here:**
+  * [My study codes repository](https://github.com/LS-StudyCodes)
+  * [My projects repository](https://github.com/LS-MyProjects)
+
 **Let's connect!**
 
   * [My website](https://lschmidt.tech/#/home)
